@@ -5,7 +5,7 @@ author-salma B
   <head>
   <title>welcome to cs department</title>
   </head>
-  <body>
+  <body bgcolor="pink">
     <h1>This is my first app for git hub</h1>
   </body>
 </html>
