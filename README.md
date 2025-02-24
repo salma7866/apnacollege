@@ -1,6 +1,6 @@
 # apnacollege
 This is my first git<br>
-author-salma B
+author-salma madam
 <html>
   <head>
   <title>welcome to cs department</title>
